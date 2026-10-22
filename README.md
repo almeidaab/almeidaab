@@ -25,6 +25,22 @@
 <br/>
 
 <div align="center">
+<picture>
+  <source
+    srcset="https://github-stats-extended.vercel.app/api?username=almeidaab&rank_icon=github&custom_title=almeidaab%27s%20GitHub%20Stats&include_all_commits=true&theme=codeSTACKr"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-stats-extended.vercel.app/api?username=almeidaab&rank_icon=github&custom_title=almeidaab%27s%20GitHub%20Stats&include_all_commits=true&theme=light_github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=almeidaab&show_icons=true" />
+</picture>
+</div>
+
+<br/>
+
+<div align="center">
 
 ## Social Media
   
